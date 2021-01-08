@@ -2,7 +2,7 @@ This project: [https://github.com/JoelBM-creator/HashMap-Products](https://githu
 <br />
 <br />
 ## Summary
-In the package activityT10 create a Product class that stores the name and the class.
+In the package activityT10 create a Proudcto/Product class that stores the name and the class.
 <br />
 Additionally, the equals and hashCode methods must be overwritten as follows:
 <br />
@@ -11,7 +11,7 @@ Two products are considered the same if they have the same name and the same pri
 The hashCode is calculated by adding the hash code of the name to the price of the product (remember that Strings have the hashCode method already implemented).
 <br />
 <br />
-Add the main Store class that, when executed, performs the following operations:
+Add the main Store/Tienda class that, when executed, performs the following operations:
 <br />
 create three products, two of them with different names and prices and the third one repeating a name and price, but with different description.
 <br />
